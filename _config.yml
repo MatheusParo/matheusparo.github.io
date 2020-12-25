@@ -48,9 +48,9 @@ linkedin_username: matheusparo
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello there! My name is Matheus and I am a senior student at IE University. I'm Brazilian and fascinated by technology, whether it comes to Machine Learning, Software Development or IT Opertaions or Digital Strategy, I will use my learning to work as best as I can.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>Tech Consultancy</mark>
 
 content:
   - title: Projects # Title for the section
@@ -68,9 +68,9 @@ content:
             icon: fab fa-github
             url: matheusparo.github.io/modern-resume-theme
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          You can access all my past and ongoing projects in the link above.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Although I love to manage Machine learning projects, I have tried to diversify as much as I can. When in university we used github to document most of our projects.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -114,7 +114,6 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
