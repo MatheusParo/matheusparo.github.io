@@ -21,8 +21,8 @@ github_username:  MatheusParo
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: paromatheus
+linkedin_username: matheusparo
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -30,10 +30,10 @@ linkedin_username: jameswgrant
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -61,12 +61,12 @@ content:
         link: github.com/matheusparo
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          - title:  MatheusParo/Forecasting-Passengers-in-Airports-with-SVR
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+            url: matheusparo.github.io/modern-resume-theme
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
@@ -84,7 +84,7 @@ content:
         quote: >
             A poverty-tackling NGO that provides microfinancing to low-income micro-entrepreneurs and families in developing countries.
         description: | # this will include new lines to allow paragraphs
-            My experience at OpenTabs was one of growth as I learnt all about web development from zero by myself. I learnt from the best of web development tools, such as HTML, CSS, PHP, file management systems and other database management tools such as SQL and JavaScript. This was very important as it served as the foundation for the further iterations of the Extension and Website.
+            My experience at OpenTabs was one of growth as I learnt all about web development from zero by myself. I learnt from the best of web development tools, such as <mark>HTML</mark>, <mark>CSS</mark>, <mark>PHP</mark>, file management systems and other database management tools such as <mark>SQL</mark> and <mark>JavaScript</mark>. This was very important as it served as the foundation for the further iterations of the Extension and Website.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -94,17 +94,19 @@ content:
         caption: 2017 - 2021
         sub_title: BISM (Information Systems Management)
         quote: >
-          A bachelor that includes both Business and IT systems of given company.
+          A bachelor that includes both Business and IT systems studies, focused on companies.
         description: | # this will include new lines to allow paragraphs
-
+          Learnt object oriented programming with <mark>Java</mark> and how to come up with fast machine learning models with <mark>Python</mark>.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      Having lived all across the world, I learnt to look at everything from a different perspective. I was fortunate enough to live in the following countries:
+      - Switzerland
+      - United States
+      - Mexico
+      - Brazil
+      - Spain
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image
