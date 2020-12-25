@@ -22,7 +22,7 @@ github_username:  MatheusParo
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: paromatheus
-linkedin_username: matheusparo
+linkedin_username: matheusparoferreira
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -57,16 +57,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: My projects
         link: github.com/matheusparo
         # link_text: Project Website
-        additional_links:
+        # additional_links:
         #  - title:  sproogen/modern-resume-theme
         #    icon: fab fa-github
         #    url: github.com/sproogen/modern-resume-theme
-          - title:  MatheusParo/Forecasting-Passengers-in-Airports-with-SVR
-            icon: fab fa-github
-            url: matheusparo.github.io/test
+        #  - title:  MatheusParo
+        #    icon: fab fa-github
+        #    url: matheusparo.github.io/test
         quote: >
           You can access all my past and ongoing projects in the link above.
         description: | # this will include new lines to allow paragraphs
@@ -84,7 +84,7 @@ content:
         quote: >
             A poverty-tackling NGO that provides microfinancing to low-income micro-entrepreneurs and families in developing countries.
         description: | # this will include new lines to allow paragraphs
-            My experience at OpenTabs was one of growth as I learnt all about web development from zero by myself. I learnt from the best of web development tools, such as <mark>HTML</mark>, <mark>CSS</mark>, <mark>PHP</mark>, file management systems and other database management tools such as <mark>SQL</mark> and <mark>JavaScript</mark>. This was very important as it served as the foundation for the further iterations of the Extension and Website.
+            My experience at OpenTabs was one of growth as I learnt all about web development from zero by myself. I learnt from the best of web development tools, such as <mark>HTML</mark> , <mark>CSS</mark> , <mark>PHP</mark> , file management systems and other database management tools such as <mark>SQL</mark> and <mark>JavaScript</mark> . This was very important as it served as the foundation for the further iterations of the Extension and Website.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -96,7 +96,7 @@ content:
         quote: >
           A bachelor that includes both Business and IT systems studies, focused on companies.
         description: | # this will include new lines to allow paragraphs
-          Learnt object oriented programming with <mark>Java</mark> and how to come up with fast machine learning models with <mark>Python</mark>.
+          Learnt object oriented programming with <mark>Java</mark> and how to come up with fast machine learning models with <mark>Python</mark> .
 
   - title: A Little More About Me
     layout: text
@@ -107,7 +107,7 @@ content:
       - Mexico
       - Brazil
       - Spain
-      
+
 
 # Footer
 footer_show_references: true
